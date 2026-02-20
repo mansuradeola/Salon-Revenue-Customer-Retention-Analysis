@@ -1,0 +1,51 @@
+Transaction_ID,Date,Day_of_Week,Time,Customer_ID,Gender,Service,Service_Category,Price,Payment_Method,Is_Returning_Customer,Staff_Assigned
+T001,1/2/2026,Friday,9:15,C001,Male,Haircut,Hair,3000,Cash,No,Mansur
+T002,1/2/2026,Friday,10:30,C002,Female,Braids,Styling,8000,Transfer,Yes,Chioma
+T003,1/2/2026,Friday,12:00,C003,Male,Beard Trim,Grooming,1500,Cash,Yes,John
+T004,1/2/2026,Friday,14:10,C004,Female,Weave Installation,Styling,12000,Transfer,No,Chioma
+T005,1/2/2026,Friday,16:45,C005,Male,Haircut,Hair,3000,POS,Yes,Mansur
+T006,1/3/2026,Saturday,9:05,C006,Female,Pedicure,Beauty,5000,Transfer,Yes,Aisha
+T007,1/3/2026,Saturday,10:20,C007,Male,Haircut,Hair,3000,Cash,No,John
+T008,1/3/2026,Saturday,11:50,C008,Female,Braids,Styling,9000,POS,Yes,Chioma
+T009,1/3/2026,Saturday,13:30,C009,Male,Haircut,Hair,3000,Transfer,Yes,Mansur
+T010,1/3/2026,Saturday,17:00,C010,Female,Wig Styling,Styling,7000,POS,No,Chioma
+T011,1/4/2026,Sunday,10:00,C011,Male,Haircut,Hair,3000,Cash,Yes,Mansur
+T012,1/4/2026,Sunday,12:10,C012,Female,Manicure,Beauty,4000,Transfer,No,Aisha
+T013,1/4/2026,Sunday,14:30,C013,Male,Beard Trim,Grooming,1500,Cash,Yes,John
+T014,1/5/2026,Monday,11:20,C014,Female,Braids,Styling,8500,Transfer,No,Chioma
+T015,1/5/2026,Monday,13:00,C015,Male,Haircut,Hair,3000,POS,Yes,Mansur
+T016,1/5/2026,Monday,15:30,C016,Female,Wig Installation,Styling,11000,Transfer,Yes,Chioma
+T017,1/6/2026,Tuesday,9:40,C017,Male,Haircut,Hair,3000,Cash,No,John
+T018,1/6/2026,Tuesday,12:00,C018,Female,Pedicure,Beauty,5000,POS,Yes,Aisha
+T019,1/6/2026,Tuesday,16:10,C019,Male,Haircut,Hair,3000,Transfer,Yes,Mansur
+T020,1/7/2026,Wednesday,10:15,C020,Female,Braids,Styling,8000,Transfer,Yes,Chioma
+T021,1/7/2026,Wednesday,13:20,C021,Male,Haircut,Hair,3000,Cash,Yes,John
+T022,1/7/2026,Wednesday,15:50,C022,Female,Manicure,Beauty,4000,POS,No,Aisha
+T023,1/8/2026,Thursday,9:10,C023,Male,Haircut,Hair,3000,Transfer,No,Mansur
+T024,1/8/2026,Thursday,11:45,C024,Female,Wig Styling,Styling,7000,POS,Yes,Chioma
+T025,1/8/2026,Thursday,14:00,C025,Male,Beard Trim,Grooming,1500,Cash,Yes,John
+T026,1/9/2026,Friday,10:00,C026,Female,Braids,Styling,9000,Transfer,Yes,Chioma
+T027,1/9/2026,Friday,12:30,C027,Male,Haircut,Hair,3000,POS,Yes,Mansur
+T028,1/9/2026,Friday,15:00,C028,Female,Pedicure,Beauty,5000,Cash,No,Aisha
+T029,1/10/2026,Saturday,9:30,C029,Male,Haircut,Hair,3000,Transfer,Yes,John
+T030,1/10/2026,Saturday,11:00,C030,Female,Weave Installation,Styling,12000,POS,Yes,Chioma
+T031,1/10/2026,Saturday,13:20,C031,Male,Haircut,Hair,3000,Cash,Yes,Mansur
+T032,1/10/2026,Saturday,17:30,C032,Female,Wig Styling,Styling,7000,Transfer,No,Chioma
+T033,1/11/2026,Sunday,10:10,C033,Male,Haircut,Hair,3000,POS,Yes,Mansur
+T034,1/11/2026,Sunday,12:45,C034,Female,Manicure,Beauty,4000,Transfer,Yes,Aisha
+T035,1/11/2026,Sunday,14:50,C035,Male,Beard Trim,Grooming,1500,Cash,Yes,John
+T036,1/12/2026,Monday,11:00,C036,Female,Braids,Styling,8500,Transfer,No,Chioma
+T037,1/12/2026,Monday,13:10,C037,Male,Haircut,Hair,3000,POS,Yes,Mansur
+T038,1/12/2026,Monday,15:40,C038,Female,Wig Installation,Styling,11000,Transfer,Yes,Chioma
+T039,1/13/2026,Tuesday,9:20,C039,Male,Haircut,Hair,3000,Cash,No,John
+T040,1/13/2026,Tuesday,12:10,C040,Female,Pedicure,Beauty,5000,POS,Yes,Aisha
+T041,1/13/2026,Tuesday,16:00,C041,Male,Haircut,Hair,3000,Transfer,Yes,Mansur
+T042,1/14/2026,Wednesday,10:30,C042,Female,Braids,Styling,8000,Transfer,Yes,Chioma
+T043,1/14/2026,Wednesday,13:15,C043,Male,Haircut,Hair,3000,Cash,Yes,John
+T044,1/14/2026,Wednesday,15:45,C044,Female,Manicure,Beauty,4000,POS,No,Aisha
+T045,1/15/2026,Thursday,9:25,C045,Male,Haircut,Hair,3000,Transfer,No,Mansur
+T046,1/15/2026,Thursday,11:50,C046,Female,Wig Styling,Styling,7000,POS,Yes,Chioma
+T047,1/15/2026,Thursday,14:10,C047,Male,Beard Trim,Grooming,1500,Cash,Yes,John
+T048,1/16/2026,Friday,10:05,C048,Female,Braids,Styling,9000,Transfer,Yes,Chioma
+T049,1/16/2026,Friday,12:40,C049,Male,Haircut,Hair,3000,POS,Yes,Mansur
+T050,1/16/2026,Friday,15:20,C050,Female,Pedicure,Beauty,5000,Cash,No,Aisha
