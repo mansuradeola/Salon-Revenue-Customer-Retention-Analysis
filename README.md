@@ -6,7 +6,7 @@ I analyzed salon transaction data to identify peak periods, revenue drivers, and
 
 ### Data Sources
 
-Salon Revenue & Customer Retention Analysis: The primary dataset used for this project is the 'transaction_fraud.xlsx' file, containing detailed information about each transactions.
+Salon Revenue & Customer Retention Analysis: The primary dataset used for this project is the 'RAWSalon _Revenue_and_Customer_Retention_Using_Data.csv' file, containing detailed information about the salon sales and customers.
 
 ### Tools
 
