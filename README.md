@@ -21,6 +21,7 @@ The goal is to provide data-driven recommendations to improve salon revenue and 
 Salon Revenue & Customer Retention Analysis: The primary dataset used for this project is the 'RAWSalon _Revenue_and_Customer_Retention_Using_Data.csv' file.
 
 The dataset contains:
+- 2+ weeks worth of data
 - 50 customer transactions
 - Service types (haircuts, braids, etc.)
 - Time and day of visits
@@ -50,7 +51,7 @@ The dataset contains:
 
 > EDA allowed us to spot trends, outliers, and patterns that guided deeper analysis and recommendations.
 
-### Data Analysis 
+### Results/Findings
 
 #### Slow Days
 - Five days recorded the lowest activity with only 6 transactions each  
@@ -67,11 +68,31 @@ The dataset contains:
 - Haircuts and braids have high repeat customer rates  
 - Manicure services show low retention, suggesting improvement opportunities
 
-### Results/Findings
-
 ### Recommendations 
+
+- Introduce weekday and evening promotions  
+- Focus marketing on high-revenue services  
+- Implement loyalty programs for repeat customers  
+- Improve low-retention services through bundling and quality enhancement
 
 ### Limitations 
 
+- Dataset is small (50 transactions) and may not fully represent long-term trends  
+- Customer demographics (age, location, etc.) are not included  
+- Seasonal or promotional effects are not captured  
+- Recommendations are based on available data
+
 ### References
 
+- Excel official documentation: [https://support.microsoft.com/excel](https://support.microsoft.com/excel)  
+- Tableau official documentation: [https://www.tableau.com/learn](https://www.tableau.com/learn)  
+- Business analytics frameworks: Harvard Business Review, *Data-Driven Decision Making*  
+- Personal knowledge from previous salon operations experience
+
+### Conclusion
+This analysis demonstrates how data can be used to optimize salon operations, increase revenue, and improve customer retention.
+
+### Author
+**Mansur Adeola**  
+Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/mansur-a-682563142)
