@@ -82,6 +82,9 @@ The dataset contains:
 - Seasonal or promotional effects are not captured  
 - Recommendations are based on available data
 
+### Dashboard Preview
+![Dashboard](visuals/dashboard.png)
+
 ### References
 
 - Excel official documentation: [https://support.microsoft.com/excel](https://support.microsoft.com/excel)  
