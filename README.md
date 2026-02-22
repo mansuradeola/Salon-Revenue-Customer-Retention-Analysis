@@ -2,7 +2,11 @@
 
 ### Project Overview
 
-I analyzed salon transaction data to identify peak periods, revenue drivers, and customer retention patterns using Excel and Tableau.
+This project analyzes Xploit Unisex Salon’s transaction data to uncover insights on customer behavior, revenue trends, and retention patterns.
+
+The goal is to provide data-driven recommendations to improve salon revenue and customer loyalty.
+
+---
 
 ### Data Sources
 
