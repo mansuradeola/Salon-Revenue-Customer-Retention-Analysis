@@ -6,20 +6,19 @@ This project analyzes Xploit Unisex Salon’s transaction data to uncover insigh
 
 The goal is to provide data-driven recommendations to improve salon revenue and customer loyalty.
 
-## Business Questions
+### Business Questions
 - What days are the slowest?
 - What time should promotions run?
 - Which services generate the most revenue?
 - How can repeat customers be increased?
 
+### Tools Used
+- Excel (Data Cleaning, Pivot Tables, Analysis)
+- Tableau (Dashboard Visualization)
+
 ### Data Sources
 
 Salon Revenue & Customer Retention Analysis: The primary dataset used for this project is the 'RAWSalon _Revenue_and_Customer_Retention_Using_Data.csv' file, containing detailed information about the salon sales and customers.
-
-### Tools
-
-- Microsoft Excel 
-- Tableau
 
 ### Data Cleaning and Preparation 
 
