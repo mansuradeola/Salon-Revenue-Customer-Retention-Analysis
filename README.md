@@ -68,7 +68,7 @@ The dataset contains:
 - Haircuts and braids have high repeat customer rates  
 - Manicure services show low retention, suggesting improvement opportunities
 
-You can download the full Excel analysis with pivot tables here: [PIVOTImproving Salon Revenue and Customer Retention Using Data.xlsx](excel/PIVOTImproving Salon Revenue and Customer Retention Using Data.xlsx)
+You can download the full Excel analysis with pivot tables here: [PIVOTImproving Salon Revenue and Customer Retention Using Data.xlsx](PIVOTImproving Salon Revenue and Customer Retention Using Data.xlsx)
 
 ### Recommendations 
 
