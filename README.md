@@ -52,6 +52,21 @@ The dataset contains:
 
 ### Data Analysis 
 
+#### Slow Days
+- Five days recorded the lowest activity with only 6 transactions each  
+- Indicates underutilized capacity during early-week days
+
+#### Promo Timing
+- Evening periods had the lowest traffic (5 customers)  
+- Ideal for running targeted promotions
+
+#### Revenue Drivers
+- Braids (₦68,000) and Haircuts (₦60,000) are the top revenue-generating services  
+
+#### Customer Retention
+- Haircuts and braids have high repeat customer rates  
+- Manicure services show low retention, suggesting improvement opportunities
+
 ### Results/Findings
 
 ### Recommendations 
