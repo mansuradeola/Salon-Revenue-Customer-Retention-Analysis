@@ -83,6 +83,9 @@ The dataset contains:
 
 You can download the full Excel analysis with pivot tables here: [PIVOTImproving_Salon_Revenue_and_Customer_Retention_Using_Data.xlsx](PIVOTImproving_Salon_Revenue_and_Customer_Retention_Using_Data.xlsx)
 
+### Dashboard Preview
+![Dashboard Screenshot](dashboard.PNG)
+
 ### Recommendations 
 
 - Introduce weekday and evening promotions  
@@ -96,9 +99,6 @@ You can download the full Excel analysis with pivot tables here: [PIVOTImproving
 - Customer demographics (age, location, etc.) are not included  
 - Seasonal or promotional effects are not captured  
 - Recommendations are based on available data
-
-### Dashboard Preview
-![Dashboard Screenshot](dashboard.PNG)
 
 ### References
 
