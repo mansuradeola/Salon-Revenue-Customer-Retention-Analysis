@@ -37,11 +37,18 @@ The dataset contains:
 - Checked for missing or inconsistent values and ensured proper formatting for analysis
 
 ### Exploratory Data Analysis 
-EDA involeved exploring the Salon Revenue & Customer Retention Analysis data to answer key questions, such as:
-- What days are the slowest?
-- What time should the salon run promos?  
-- Which services bring the most money?  
-- How can we increase repeat customers?  
+
+- **Customer Flow Analysis**: Counted transactions per day and per hour to identify traffic patterns  
+- **Service Popularity**: Summarized number of requests per service  
+- **Revenue Distribution**: Examined revenue by service to find high-earning services  
+- **Customer Retention**: Compared returning vs new customers per service  
+- **Preliminary Visualizations**: Generated charts for:
+  - Transactions by day of week  
+  - Transactions by time bucket  
+  - Revenue by service  
+  - Returning vs new customers  
+
+> EDA allowed us to spot trends, outliers, and patterns that guided deeper analysis and recommendations.
 
 ### Data Analysis 
 
