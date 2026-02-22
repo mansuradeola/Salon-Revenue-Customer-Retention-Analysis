@@ -6,7 +6,11 @@ This project analyzes Xploit Unisex Salon’s transaction data to uncover insigh
 
 The goal is to provide data-driven recommendations to improve salon revenue and customer loyalty.
 
----
+## Business Questions
+- What days are the slowest?
+- What time should promotions run?
+- Which services generate the most revenue?
+- How can repeat customers be increased?
 
 ### Data Sources
 
