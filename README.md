@@ -29,6 +29,13 @@ The dataset contains:
 
 ### Data Cleaning and Preparation 
 
+- Verified and formatted **Time** and **Date** columns  
+- Created new columns:
+  - **Hour** (from Time)  
+  - **Time Bucket** (Morning / Afternoon / Evening)  
+  - **Week Type** (Weekday / Weekend)  
+- Checked for missing or inconsistent values and ensured proper formatting for analysis
+
 ### Exploratory Data Analysis 
 EDA involeved exploring the Salon Revenue & Customer Retention Analysis data to answer key questions, such as:
 - What days are the slowest?
