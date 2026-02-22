@@ -39,7 +39,10 @@ The dataset contains:
 
 ### Exploratory Data Analysis 
 
-- **Customer Flow Analysis**: Counted transactions per day and per hour to identify traffic patterns  
+- **Customer Flow Analysis**: Counted transactions per day and per hour to identify traffic patterns
+
+![Slow days Screenshot](slow_days.PNG)
+  
 - **Service Popularity**: Summarized number of requests per service  
 - **Revenue Distribution**: Examined revenue by service to find high-earning services  
 - **Customer Retention**: Compared returning vs new customers per service  
