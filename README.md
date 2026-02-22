@@ -40,8 +40,6 @@ The dataset contains:
 ### Exploratory Data Analysis 
 
 - **Customer Flow Analysis**: Counted transactions per day and per hour to identify traffic patterns
-
-![Slow days Screenshot](slow_days.PNG)
   
 - **Service Popularity**: Summarized number of requests per service  
 - **Revenue Distribution**: Examined revenue by service to find high-earning services  
@@ -60,16 +58,24 @@ The dataset contains:
 - Five days recorded the lowest activity with only 6 transactions each  
 - Indicates underutilized capacity during early-week days
 
+![Slow Days Screenshot](slow_days.PNG)
+
 #### Promo Timing
 - Evening periods had the lowest traffic (5 customers)  
 - Ideal for running targeted promotions
 
+![Promo Timing Screenshot](promo_timing.PNG)
+
 #### Revenue Drivers
 - Braids (₦68,000) and Haircuts (₦60,000) are the top revenue-generating services  
+
+![Highest revenue Screenshot](highest_revenue.PNG)
 
 #### Customer Retention
 - Haircuts and braids have high repeat customer rates  
 - Manicure services show low retention, suggesting improvement opportunities
+
+![Customer Repeat Screenshot](customer_repeat.PNG)
 
 You can download the full Excel analysis with pivot tables here: [PIVOTImproving_Salon_Revenue_and_Customer_Retention_Using_Data.xlsx](PIVOTImproving_Salon_Revenue_and_Customer_Retention_Using_Data.xlsx)
 
