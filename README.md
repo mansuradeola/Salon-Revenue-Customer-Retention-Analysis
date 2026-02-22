@@ -18,7 +18,14 @@ The goal is to provide data-driven recommendations to improve salon revenue and 
 
 ### Data Sources
 
-Salon Revenue & Customer Retention Analysis: The primary dataset used for this project is the 'RAWSalon _Revenue_and_Customer_Retention_Using_Data.csv' file, containing detailed information about the salon sales and customers.
+Salon Revenue & Customer Retention Analysis: The primary dataset used for this project is the 'RAWSalon _Revenue_and_Customer_Retention_Using_Data.csv' file.
+
+The dataset contains:
+- 50 customer transactions
+- Service types (haircuts, braids, etc.)
+- Time and day of visits
+- Revenue and payment methods
+- Customer return status
 
 ### Data Cleaning and Preparation 
 
